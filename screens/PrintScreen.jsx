@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function PrintScreen() {
   return (
     <View style={styles.container}>
-        <Text>PrintScreen</Text>
+        <Text>PrintScreen - Work in progress 🚀🚀</Text>
     </View>
   )
 }
@@ -13,8 +13,7 @@ const styles = StyleSheet.create({
       flex: 1,
       backgroundColor: '#fff',
       alignItems: 'center',
-      justifyContent: 'space-between',
-      paddingTop:130,
+      justifyContent: 'center',
     },
     
 });
